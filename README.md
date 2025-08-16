@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Israel also known as Rae— Cybersecurity & Ethical Hacker
+I secure web, mobile, and API platforms for startups and small teams.
+
+**Focus:** OWASP Top 10 / API Security / Cloud-aware testing  
+**Deliverables:** Clear reports, PoC screenshots, and step-by-step fixes
+
+### Featured case studies
+- [DVWA Web App Pentest](https://github.com/<raeodun>/DVWA-WebApp-Pentest-Report)
+- [Juice Shop API Security Audit](https://github.com/<raeodun>/JuiceShop-API-Security-Audit)
+
+📫 Reach me: [LinkedIn](http://linkedin.com/in/rae-odunayo-a30325288)
 
 <!--
 **Raeodun/Raeodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
